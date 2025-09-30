@@ -1,0 +1,5 @@
+colorama==0.4.6
+packaging==25.0
+pillow==11.3.0
+pytesseract==0.3.13
+tqdm==4.67.1
